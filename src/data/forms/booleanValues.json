@@ -1,0 +1,12 @@
+[
+  {
+    "id": 0,
+    "label": "true",
+    "value": true
+  },
+  {
+    "id": 1,
+    "label": "false",
+    "value": false
+  }
+]
