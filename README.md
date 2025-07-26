@@ -45,3 +45,7 @@ npm run dev
 ### BrowserRouter vs HashRouter
 
 Apparently, if published on GitHub pages an app like this works better with a HashRouter instead of a BrowserRouter. Hence, the hashtag '#' in the app's urls.
+
+### Take it for a spin
+
+A live demo is available at <https://keycodey.github.io/raytracer/>.
