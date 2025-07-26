@@ -70,7 +70,7 @@ export default function Home() {
           The objects in the Playground have their transformations applied in
           this order: translations, scaling, rotation around the x-axis, then
           around the y-axis, and finally around the z-axis. This makes adjusting
-          the transforms a bit cumbersome. Maybe later I'll mange to add an
+          the transforms a bit cumbersome. Maybe later I'll manage to add an
           option to rearrange the order of the transforms.
         </Typography>
       </Container>

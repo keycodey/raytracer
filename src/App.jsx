@@ -32,11 +32,6 @@ function App() {
           </Routes>
         </Box>
       </Box>
-
-      {/* <SceneWithCSG />
-      <SceneWithCar />
-      <SceneWithTeapot />
-      <SceneWithHexagon />*/}
     </>
   );
 }
